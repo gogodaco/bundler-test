@@ -11,7 +11,5 @@
 #/.pnp.*
 
 
-./**/dist/*.js
 **/node_modules
 .DS_Store
-webpack/dist/*.js

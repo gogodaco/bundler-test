@@ -1,0 +1,10 @@
+{
+  "name": "esbuild",
+  "packageManager": "yarn@3.1.1",
+  "devDependencies": {
+    "esbuild": "^0.14.9"
+  },
+  "scripts": {
+    "build": "node ./esbuild.config.js"
+  }
+}
