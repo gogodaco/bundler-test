@@ -1,0 +1,11 @@
+{
+  "name": "rollup",
+  "packageManager": "yarn@3.1.1",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^21.0.1",
+    "rollup": "^2.62.0"
+  },
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  }
+}
